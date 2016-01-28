@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/Bird0.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/Bird1.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/Bird2.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/CapBottom.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/CapTop.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/City.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/Clouds.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/GameOver.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/GetReady.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/Instructions.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/Trees.png</File>
+    <File>C:/Users/CharlieJDunn/Documents/Visual Studio 2015/Projects/SleepyBird/SleepyBird/Content/ship.png</File>
+  </SourceFiles>
+</SourceFileCollection>
